@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **LLMs, Transforms**
 
-- 💬 Ask me about **Machine Learning algorithmns, SQL,**
+- 💬 Ask me about **Machine Learning algorithmns, SQL, Product and I'm curious to learn anything under the sun**
 
 - 📫 How to reach me **bandaru.sa@northeastern.edu**
 
