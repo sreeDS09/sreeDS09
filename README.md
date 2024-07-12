@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Srikar</h1>
-<h3 align="center">A passionate Data Scientist based in Boston,MA</h3>
+<h3 align="center">A passionate Data Scientist based in Seattle, WA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreeds09&label=Profile%20views&color=0e75b6&style=flat" alt="sreeds09" /> </p>
 
