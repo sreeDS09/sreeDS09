@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreeds09&label=Profile%20views&color=0e75b6&style=flat" alt="sreeds09" /> </p>
 
-- 🔭 I’m currently working on **ATM transactions**
+- 🔭 I’m currently working at Amazon.com as Business Analyst [C] for their Hire ATS business during the week while I research and do projects in the areas of time series, forecasting and ML modeling building**
 
 - 🌱 I’m currently learning **LLMs, Transforms**
 
-- 💬 Ask me about **Machine Learning algorithmns, SQL, Product and I'm curious to learn anything under the sun**
+- 💬 Ask me about **Applied Mathematics, Statisitcal Modeling, Product Analytics and happy to learn about interests works in the areas of Cyber/Cognitive intelligence as well as US Markets**
 
 - 📫 How to reach me **bandaru.sa@northeastern.edu**
 
